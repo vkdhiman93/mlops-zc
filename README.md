@@ -1,3 +1,3 @@
-# mlops-zc
+# MLOPS Zoomcamp
 
 Updating readme

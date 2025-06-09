@@ -4,7 +4,9 @@ The goal of this homework is to create a simple training pipeline, use mlflow to
 
 We'll use [the same NYC taxi dataset](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page), the **Yellow** taxi data for March, 2023.
 
-## Using Prefect for orchestration
+## Question 1. Using Prefect for orchestration
+
+## Question 2. Prefect Version - 3.4.5
 
 ## Question 3. Creating a pipeline
 
@@ -16,7 +18,7 @@ How many records did we load?
 
 - 3,003,766
 - 3,203,766
-- 3,403,766
+  **- 3,403,766**
 - 3,603,766
 
 ## Question 4. Data preparation
@@ -49,7 +51,7 @@ What's the size of the result?
 
 - 2,903,766
 - 3,103,766
-- 3,316,216
+  **- 3,316,216**
 - 3,503,766
 
 ## Question 5. Train a model
@@ -67,7 +69,7 @@ What's the intercept of the model?
 Hint: print the `intercept_` field in the code block
 
 - 21.77
-- 24.77
+  **- 24.77**
 - 27.77
 - 31.77
 
@@ -131,8 +133,10 @@ Find the logged model, and find MLModel file. What's the size of the model? (`mo
 
 - 14,534
 - 9,534
-- 4,534
+  **- 4,534**
 - 1,534
+
+**> Actual size came to be 4.39KB**
 
 > Note: typically we do last two steps in one code block.
 

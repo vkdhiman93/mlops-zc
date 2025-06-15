@@ -87,7 +87,7 @@ Run the script for April 2023.
 What's the mean predicted duration?
 
 - 7.29
-- 14.29
+- **14.29**
 - 21.29
 - 28.29
 
